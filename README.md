@@ -1,12 +1,12 @@
 NAME
 ====
 
-ChainableSeq - blah blah blah
+SeqSplitter - blah blah blah
 
 SYNOPSIS
 ========
 
-    use ChainableSeq;
+    use SeqSplitter;
 
 DESCRIPTION
 ===========
