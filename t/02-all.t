@@ -1,5 +1,5 @@
 use Test;
-use ChainableSeq;
+use SeqSplitter;
 
 is ^10 .pull-while(True).List, ^10 .List;
 is ^10 .skip-while(True).List, ();

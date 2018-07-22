@@ -1,6 +1,6 @@
 use v6.c;
 use Test;
-use ChainableSeq;
+use SeqSplitter;
 
 pass "replace me";
 
