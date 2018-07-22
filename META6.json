@@ -4,7 +4,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "blah blah blah",
+  "description" : "SeqSplitter is a \"better solution\" for .toggle it was being discussed here https://github.com/rakudo/rakudo/issues/2089",
   "license" : "Artistic-2.0",
   "name" : "SeqSplitter",
   "perl" : "6.c",
