@@ -41,4 +41,5 @@ is $s8.List, $s9.List;
 is $s8.List, $s9.List;
 
 is ^10 .skip.pull.skip.pull.skip.pull.List, (1, 3, 5);
+
 done-testing
