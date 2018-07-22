@@ -11,7 +11,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-ChainableSeq is ...
+SeqSplitter is ...
 
 AUTHOR
 ======
